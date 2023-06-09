@@ -19,3 +19,7 @@
 - Bedrock:
   
 ![bedrock](https://github.com/Akari-my/AkariStatus/assets/58370835/e6c8a3ce-7ce9-457d-a01f-b732ed001bb2)
+
+  
+# 🫂 More information
+- Click here -> [Discord](https://discord.gg/AWndKMeg)
