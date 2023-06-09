@@ -3,7 +3,7 @@ import requests
 import socket
 
 # Inserisci il tuo token del bot di Telegram
-API_TOKEN = '6192433648:AAH6lBH4F70wJJakAmEEJvexpfx8aKZiSpQ'
+API_TOKEN = 'YOUR_TOKEN'
 
 bot = telebot.TeleBot(API_TOKEN)
 
