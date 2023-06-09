@@ -13,7 +13,9 @@
 
   # 👨Screenshot
 - Java:
-<img src="https://github.com/Akari-my/AkariStatus/java.png"></img><br>
+  
+![java](https://github.com/Akari-my/AkariStatus/assets/58370835/dea7b1c3-79c2-434e-aef4-15b799f8c0a9)
  
 - Bedrock:
-<img src="https://github.com/Akari-my/AkariStatus/blob/master/.github/bedrock.png"></img><br>
+  
+![bedrock](https://github.com/Akari-my/AkariStatus/assets/58370835/2761a370-c6e2-462f-90db-8196cf54b287)
