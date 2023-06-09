@@ -12,3 +12,8 @@
   Use this command to view the statistics of your bot's usage. When you enter this command, the bot will provide you with the total count of users who have         started or interacted with the bot since its deployment. It's a convenient way to keep track of the bot's popularity and engagement.
 
   # 👨Screenshot
+- Java:
+<img src="https://github.com/Akari-my/AkariStatus/blob/master/.github/java.png"></img><br>
+ 
+- Bedrock:
+<img src="https://github.com/Akari-my/AkariStatus/blob/master/.github/bedrock.png"></img><br>
