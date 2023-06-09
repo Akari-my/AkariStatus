@@ -13,7 +13,7 @@
 
   # 👨Screenshot
 - Java:
-<img src="https://github.com/Akari-my/AkariStatus/blob/master/.github/java.png"></img><br>
+<img src="https://github.com/Akari-my/AkariStatus/java.png"></img><br>
  
 - Bedrock:
 <img src="https://github.com/Akari-my/AkariStatus/blob/master/.github/bedrock.png"></img><br>
